@@ -1,11 +1,7 @@
-# Flutter ToDo App
+# ToDo List App
 
-A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
+A basic to-do list app developed with Flutter. 
+Basic Functionalities :
+1)Add/Drop 
+2)Search for existing items
 
-## Watch it on YouTube
-This repository is part of a tutorial on my YouTube.
-- [Flutter ToDo App Tutorial for Beginners](https://youtu.be/K4P5DZ9TRns)
-
-## Screenshot
-
-![Flutter todo app](./flutter-todo-iphone.png)
